@@ -4,6 +4,8 @@
 
 ## 🤓 Course overview and learning outcomes 
 
+Marco welcomes all of you guys to the Desarroladores Masquerades
+
 The goal of this assignment is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on the github platform. 🚀
 
 ## :octocat: Git and GitHub

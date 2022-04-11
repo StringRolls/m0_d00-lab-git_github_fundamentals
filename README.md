@@ -1,6 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-Hi I am Marco, I want to become an awesome developer.
+Hi I am Marco Santonastasi a.k.a. prof Estringa, I want to become an awesome developer.
 I am from Naples Italy and I moved to Barcelona to teach at Ironhack.
 # :wave: The Basics of GitHub 
 
